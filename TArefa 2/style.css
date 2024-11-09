@@ -1,0 +1,10 @@
+.imagem {
+    border-radius: 50%; width: 282px; height: 269px;
+}
+#image2 {
+    width: 1440px;
+    height: 308px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
